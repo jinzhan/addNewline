@@ -1,0 +1,16 @@
+{
+  "name": "addNewline",
+  "version": "0.0.0-beta",
+  "main": "index.js",
+  "bin": {
+    "fx": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^15.4.1"
+  }
+}
